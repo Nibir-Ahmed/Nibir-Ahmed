@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="./printer.svg" width="300" alt="A printer printing out Nibir Ahmed's profile photo" />
+
 # Hi there, I'm Nibir Ahmed! 👋
+
+</div>
 
 <p align="left">
   <a href="https://md-nibir.netlify.app" target="_blank">
@@ -64,6 +70,7 @@ I'm a passionate **Frontend Developer** based in Bangladesh, dedicated to buildi
 ---
 
 ### 🚀 What I'm Working On
+
 *   💻 Developing interactive frontend applications with React and Tailwind CSS.
 *   📚 Expanding my knowledge of backend technologies and fullstack integration.
 *   ⚡ Optimizing web application layouts and UI transitions for smooth user experiences.
