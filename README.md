@@ -1,9 +1,7 @@
 <div align="center">
-
 <img src="./printer.svg" width="300" alt="A printer printing out Nibir Ahmed's profile photo" />
 
 # Hi there, I'm Nibir Ahmed! 👋
-
 </div>
 
 <p align="left">
@@ -16,6 +14,39 @@
 </p>
 
 I'm a passionate **Frontend Developer** based in Bangladesh, dedicated to building responsive, visually engaging, and user-friendly web applications. I love turning complex designs into clean, functional code.
+
+---
+
+### 💻 neofetch
+
+```
+
+                    ,,,,,,,,,,,             nibir@ahmed
+                ,,,;;;;;;;;;;;;;;,,         ------------------------------------
+             ,;;;;;;;;;;;;;;;;;;;;;;,       OS: ................ Bangladesh
+           ,;;;;;;;;;;;;;;;;;;;;;;;;;,      Role: .............. Frontend Developer
+          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;     Uptime: ............ Always Building
+         ;;;;;;;;;;;    ;;;;;;;;;;;;;;;;    Editor: ............ VS Code
+        ;;;;;;;;;;       ;;;;;;;;;;;;;;;    Shell: .............. GitHub CLI
+        ;;;;;;;;;;       ;;;;;;;;;;;;;;;
+        ;;;;;;;;;;;;   ;;;;;;;;;;;;;;;;;    Languages.Web: ..... HTML5, CSS3, JavaScript
+         ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;     Languages.Framework: React
+          ;;;;;;;;;;;;;;;;;;;;;;;;;;;;      Languages.Styling: . Tailwind CSS
+           ';;;;;;;;;;;;;;;;;;;;;;;'
+             ';;;;;;;;;;;;;;;;;;;'          Tools.VersionControl: Git, GitHub
+                '';;;;;;;;;;;;;''            Tools.Deploy: ....... Netlify
+                     '''''''''
+
+                                              -- Contact -----------------------------
+                                              Portfolio: ........ md-nibir.netlify.app
+                                              Email: ............. your.email@example.com
+
+                                              -- Currently -----------------------------
+                                              Building: .......... Interactive React + Tailwind apps
+                                              Learning: ........... Backend & fullstack integration
+                                              Optimizing: ......... UI transitions & layouts
+
+```
 
 ---
 
