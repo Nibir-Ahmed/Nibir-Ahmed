@@ -1,8 +1,4 @@
-<div align="center">
-<img src="./printer.svg" width="300" alt="A printer printing out Nibir Ahmed's profile photo" />
-
-# Hi there, I'm Nibir Ahmed! 👋
-</div>
+<h1 align="center">Hi there, I'm Nibir Ahmed! 👋</h1>
 
 <p align="left">
   <a href="https://md-nibir.netlify.app" target="_blank">
